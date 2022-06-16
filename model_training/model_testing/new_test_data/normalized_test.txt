@@ -1,0 +1,81 @@
+===============================================
+                MODEL TESTING
+===============================================
+
+
+Overall model accuracy
+==============
+correct: 9.09 %
+incorrect: 90.91 %
+
+Predicted labels
+==============
+Predicted class: zero - True class: zero
+Predicted class: zero - True class: zero
+Predicted class: zero - True class: zero
+Predicted class: zero - True class: zero
+Predicted class: zero - True class: zero
+Predicted class: zero - True class: one
+Predicted class: zero - True class: one
+Predicted class: zero - True class: one
+Predicted class: zero - True class: one
+Predicted class: zero - True class: one
+Predicted class: zero - True class: two
+Predicted class: zero - True class: two
+Predicted class: zero - True class: two
+Predicted class: zero - True class: two
+Predicted class: zero - True class: two
+Predicted class: zero - True class: three
+Predicted class: zero - True class: three
+Predicted class: zero - True class: three
+Predicted class: zero - True class: three
+Predicted class: zero - True class: three
+Predicted class: zero - True class: four
+Predicted class: zero - True class: four
+Predicted class: zero - True class: four
+Predicted class: zero - True class: four
+Predicted class: zero - True class: four
+Predicted class: zero - True class: five
+Predicted class: zero - True class: five
+Predicted class: zero - True class: five
+Predicted class: zero - True class: five
+Predicted class: zero - True class: five
+Predicted class: zero - True class: six
+Predicted class: zero - True class: six
+Predicted class: zero - True class: six
+Predicted class: zero - True class: six
+Predicted class: zero - True class: six
+Predicted class: zero - True class: seven
+Predicted class: zero - True class: seven
+Predicted class: zero - True class: seven
+Predicted class: zero - True class: seven
+Predicted class: zero - True class: seven
+Predicted class: zero - True class: eight
+Predicted class: zero - True class: eight
+Predicted class: zero - True class: eight
+Predicted class: zero - True class: eight
+Predicted class: zero - True class: eight
+Predicted class: zero - True class: nine
+Predicted class: zero - True class: nine
+Predicted class: zero - True class: nine
+Predicted class: zero - True class: nine
+Predicted class: zero - True class: nine
+Predicted class: zero - True class: ten
+Predicted class: zero - True class: ten
+Predicted class: zero - True class: ten
+Predicted class: zero - True class: ten
+Predicted class: zero - True class: ten
+
+Per class rankings
+==============
+Class: one - correct: 0.00 % - incorrect: 100.00 %
+Class: two - correct: 0.00 % - incorrect: 100.00 %
+Class: three - correct: 0.00 % - incorrect: 100.00 %
+Class: four - correct: 0.00 % - incorrect: 100.00 %
+Class: five - correct: 0.00 % - incorrect: 100.00 %
+Class: six - correct: 0.00 % - incorrect: 100.00 %
+Class: seven - correct: 0.00 % - incorrect: 100.00 %
+Class: eight - correct: 0.00 % - incorrect: 100.00 %
+Class: nine - correct: 0.00 % - incorrect: 100.00 %
+Class: ten - correct: 0.00 % - incorrect: 100.00 %
+Class: zero - correct: 100.00 % - incorrect: 0.00 %

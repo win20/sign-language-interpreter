@@ -1,0 +1,136 @@
+===============================================
+                MODEL TESTING
+===============================================
+
+
+Overall model accuracy
+==============
+correct: 18.18 %
+incorrect: 81.82 %
+
+Predicted labels
+==============
+Predicted class: four - True class: zero
+Predicted class: four - True class: zero
+Predicted class: four - True class: zero
+Predicted class: four - True class: zero
+Predicted class: ten - True class: zero
+Predicted class: four - True class: zero
+Predicted class: four - True class: zero
+Predicted class: four - True class: zero
+Predicted class: four - True class: zero
+Predicted class: four - True class: zero
+Predicted class: four - True class: one
+Predicted class: four - True class: one
+Predicted class: four - True class: one
+Predicted class: four - True class: one
+Predicted class: four - True class: one
+Predicted class: four - True class: one
+Predicted class: four - True class: one
+Predicted class: four - True class: one
+Predicted class: four - True class: one
+Predicted class: four - True class: one
+Predicted class: four - True class: two
+Predicted class: four - True class: two
+Predicted class: four - True class: two
+Predicted class: four - True class: two
+Predicted class: four - True class: two
+Predicted class: four - True class: two
+Predicted class: four - True class: two
+Predicted class: four - True class: two
+Predicted class: four - True class: two
+Predicted class: four - True class: two
+Predicted class: four - True class: three
+Predicted class: four - True class: three
+Predicted class: four - True class: three
+Predicted class: four - True class: three
+Predicted class: four - True class: three
+Predicted class: four - True class: three
+Predicted class: four - True class: three
+Predicted class: four - True class: three
+Predicted class: four - True class: three
+Predicted class: four - True class: three
+Predicted class: four - True class: four
+Predicted class: four - True class: four
+Predicted class: four - True class: four
+Predicted class: four - True class: four
+Predicted class: four - True class: four
+Predicted class: four - True class: four
+Predicted class: four - True class: four
+Predicted class: four - True class: four
+Predicted class: four - True class: four
+Predicted class: four - True class: four
+Predicted class: four - True class: five
+Predicted class: four - True class: five
+Predicted class: four - True class: five
+Predicted class: four - True class: five
+Predicted class: four - True class: five
+Predicted class: four - True class: five
+Predicted class: four - True class: five
+Predicted class: four - True class: five
+Predicted class: four - True class: five
+Predicted class: four - True class: five
+Predicted class: ten - True class: six
+Predicted class: ten - True class: six
+Predicted class: ten - True class: six
+Predicted class: ten - True class: six
+Predicted class: ten - True class: six
+Predicted class: ten - True class: six
+Predicted class: ten - True class: six
+Predicted class: ten - True class: six
+Predicted class: ten - True class: six
+Predicted class: ten - True class: six
+Predicted class: ten - True class: seven
+Predicted class: ten - True class: seven
+Predicted class: ten - True class: seven
+Predicted class: ten - True class: seven
+Predicted class: ten - True class: seven
+Predicted class: ten - True class: seven
+Predicted class: ten - True class: seven
+Predicted class: ten - True class: seven
+Predicted class: ten - True class: seven
+Predicted class: ten - True class: seven
+Predicted class: four - True class: eight
+Predicted class: ten - True class: eight
+Predicted class: ten - True class: eight
+Predicted class: ten - True class: eight
+Predicted class: ten - True class: eight
+Predicted class: ten - True class: eight
+Predicted class: ten - True class: eight
+Predicted class: ten - True class: eight
+Predicted class: ten - True class: eight
+Predicted class: ten - True class: eight
+Predicted class: four - True class: nine
+Predicted class: four - True class: nine
+Predicted class: four - True class: nine
+Predicted class: ten - True class: nine
+Predicted class: four - True class: nine
+Predicted class: four - True class: nine
+Predicted class: four - True class: nine
+Predicted class: ten - True class: nine
+Predicted class: four - True class: nine
+Predicted class: ten - True class: nine
+Predicted class: ten - True class: ten
+Predicted class: ten - True class: ten
+Predicted class: ten - True class: ten
+Predicted class: ten - True class: ten
+Predicted class: ten - True class: ten
+Predicted class: ten - True class: ten
+Predicted class: ten - True class: ten
+Predicted class: ten - True class: ten
+Predicted class: ten - True class: ten
+Predicted class: ten - True class: ten
+
+Per class rankings
+==============
+Class: zero - correct: 0.00 % - incorrect: 100.00 %
+Class: one - correct: 0.00 % - incorrect: 100.00 %
+Class: two - correct: 0.00 % - incorrect: 100.00 %
+Class: three - correct: 0.00 % - incorrect: 100.00 %
+Class: five - correct: 0.00 % - incorrect: 100.00 %
+Class: six - correct: 0.00 % - incorrect: 100.00 %
+Class: seven - correct: 0.00 % - incorrect: 100.00 %
+Class: eight - correct: 0.00 % - incorrect: 100.00 %
+Class: nine - correct: 0.00 % - incorrect: 100.00 %
+Class: four - correct: 100.00 % - incorrect: 0.00 %
+Class: ten - correct: 100.00 % - incorrect: 0.00 %
