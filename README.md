@@ -1,4 +1,4 @@
-# SignLanguageInterpreter
+# Sign Language Interpreter
 
 ### Folder Structure
 
