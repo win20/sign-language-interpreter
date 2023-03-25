@@ -1,5 +1,7 @@
 # Sign Language Interpreter
 
+Third year university project, use an infrared device called a 'Leap Motion' and its api in order to gather hand, joints and finger coordinates in order to train an AI model to translate British Sign Language (BSL).
+
 ### Folder Structure
 
 - .ipynb_checkpoints - contains all files neccessary for Jupyter Notebook to work || DO NOT ALTER.
