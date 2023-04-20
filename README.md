@@ -2,7 +2,7 @@
 
 **Currently only has a command line interface but I am planning to improve this and add a GUI**
 
-Third year university project, use an infrared device called a 'Leap Motion' and its api in order to gather hand, joints and finger coordinates in order to train an AI model to translate British Sign Language (BSL).
+Third year university project, use an infrared device called a ['Leap Motion'](https://www.ultraleap.com/product/leap-motion-controller/) and its api in order to gather hand, joints and finger coordinates in order to train an AI model to translate British Sign Language (BSL).
 
 
 ### Folder Structure
